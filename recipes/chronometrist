@@ -1,7 +1,6 @@
 (chronometrist
  :fetcher codeberg
  :repo "contrapunctus/chronometrist"
- :branch "dev"
  :files (:defaults
          "elisp/*.el"
          "elisp/*.org"
